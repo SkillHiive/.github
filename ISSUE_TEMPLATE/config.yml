@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/skillhiive/web/discussions
+    about: Ask questions, share ideas, or start conversations here.
+
+  - name: Documentation
+    url: https://docs.skillhiive.com
+    about: Check the documentation before opening an issue.
